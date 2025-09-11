@@ -27,8 +27,8 @@
 ---
 
 ## 📸 اسکرین‌شات
-![Todo App Screenshot](./images/Capture.PNG)
-![Todo App Screenshot](./images/Capture2.PNG)
+![ Screenshot](./images/Capture.PNG)
+![Screenshot](./images/Capture2.PNG)
 
 ---
 
