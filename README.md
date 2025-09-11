@@ -27,12 +27,6 @@
 ---
 
 ## 📸 اسکرین‌شات
-![ Screenshot](./images/Capture.PNG)
-![Screenshot](./images/Capture2.PNG)
+![ Screenshot](images/Capture.PNG)
+![Screenshot](images/Capture2.PNG)
 
----
-
-## 📂 نصب و اجرا
-۱. کلون کردن ریپازیتوری:
-```bash
-git clone https://github.com/zahramalekpour/shoppingproject
