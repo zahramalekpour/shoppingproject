@@ -14,7 +14,7 @@
 
 ---
 
-## کنولوژی‌ها
+## تکنولوژی‌ها
 - HTML5  
 - CSS3 (Flexbox, Grid, Responsive Design)  
 - JavaScript (ES6+, DOM, LocalStorage)  
